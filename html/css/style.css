@@ -1,0 +1,24 @@
+.main-bg {
+    background-color: #24353f;
+}
+
+.main-color {
+    color: #17a2b8;
+}
+
+.cell {
+    margin-top: 5%;
+}
+
+.cell input {
+    border-radius: 5px;
+}
+
+#name {
+    display: none;
+}
+
+.cell button:hover {
+    background-color: #17a2b8 !important;
+    color: white !important;
+}
